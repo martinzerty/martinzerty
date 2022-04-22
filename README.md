@@ -2,7 +2,5 @@
 - 👀 I’m interested in programming, data science and networks
 - 🌱 I’m currently learning C, and it's harder than python 🥵
 
-<!---
-MartinDmont/MartinDmont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇫🇷 : J'ai déjà fait pas mal d'Angular et de NodeJS même si c'est pas mon dommaine de prédilection. Je préfère développer avec Python. Quand j'ai une idée, je la mets souvent sous forme de site web comme ça je fais un peu de design aussi, j'aime bien. Ça rame le C mais c'est pas pareil. Je débute seulement et c'est pas fini.
+
